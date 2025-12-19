@@ -3,7 +3,7 @@ Portfolio of completed projects I worked on while attending the BI ANALYTICS Tri
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 0 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 0 | [Project status report](https://github.com/kaysegovia/BI-portfolio/tree/main/Project%20status%20report) | DESCRIPTION HERE. |
 | 1 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 2 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 3 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
