@@ -3,5 +3,6 @@ Create a new Column in the Reviews table named helpful_reviews using a DAX expre
 Create a new Column in the Reviews table named developer_answered using a DAX expression, which is 1 (or TRUE) if the developer_reply column is not blank and 0 (or FALSE) if the column row is blank. Make a scatterplot comparing the average rating on the Y-Axis by the value of the developer_answered column on the X-Axis.
 
 <img width="606" height="454" alt="Screenshot 2025-12-23 12 17 12 PM" src="https://github.com/user-attachments/assets/ddc3254b-2c55-4ead-a6b1-c412a18781d1" />
+<img width="582" height="386" alt="Screenshot 2025-12-23 12 18 38 PM" src="https://github.com/user-attachments/assets/46f2f742-63f8-4946-830e-43ffcc2a1884" />
 
 https://docs.google.com/document/d/1129vl2pmH9et67egO57oOaINuEu-Cpu4fdEUtnLEcs4/edit?usp=sharing
