@@ -4,13 +4,13 @@ Portfolio of completed projects I worked on while attending the BI ANALYTICS Tri
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
 | 0 | [Project status report](https://github.com/kaysegovia/BI-portfolio/tree/main/Project%20status%20report) | DESCRIPTION HERE. |
-| 1 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
-| 2 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
-| 3 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
-| 4 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
-| 5 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
-| 6 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
-| 7 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
+| 1 | [Airbnb spreadsheet](https://github.com/kaysegovia/BI-portfolio/tree/main/Airbnb%20spreadsheet) | DESCRIPTION HERE. |
+| 2 | [SQL](https://github.com/kaysegovia/BI-portfolio/tree/main/SQL) | DESCRIPTION HERE. |
+| 3 | [E-commerce spreadsheet](https://github.com/kaysegovia/BI-portfolio/tree/main/E-commerce%20spreadsheet) | DESCRIPTION HERE. |
+| 4 | [Superstore data visualization](https://github.com/kaysegovia/BI-portfolio/tree/main/Superstore%20data%20visualization) | DESCRIPTION HERE. |
+| 5 | [Superstore return analysis](https://github.com/kaysegovia/BI-portfolio/tree/main/Superstore%20return%20analysis) | DESCRIPTION HERE. |
+| 6 | [Shopify platform analysis](https://github.com/kaysegovia/BI-portfolio/tree/main/Shopify%20platform%20analysis) | DESCRIPTION HERE. |
+| 7 | [Zomato's restaurant analysis](https://github.com/kaysegovia/BI-portfolio/tree/main/Zomato's%20restaurant%20analysis) | DESCRIPTION HERE. |
 <!--
 | 8 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 9 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
