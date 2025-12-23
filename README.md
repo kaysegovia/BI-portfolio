@@ -10,9 +10,9 @@ Portfolio of completed projects I worked on while attending the BI ANALYTICS Tri
 | 3 | [E-commerce spreadsheet](https://github.com/kaysegovia/BI-portfolio/tree/main/E-commerce%20spreadsheet) | Calculating behavior all and financial metrics plotting funnels and carrying out cohort analysis 
 . |
 | 4 | [Superstore data visualization](https://github.com/kaysegovia/BI-portfolio/tree/main/Superstore%20data%20visualization) | Work with tableau to transfer visualization tools generating different charts while creating interactive visualizations . |
-| 5 | [Superstore return analysis](https://github.com/kaysegovia/BI-portfolio/tree/main/Superstore%20return%20analysis) | DESCRIPTION HERE. |
+| 5 | [Superstore return analysis](https://github.com/kaysegovia/BI-portfolio/tree/main/Superstore%20return%20analysis) | Stakeholder analysis. |
 | 6 | [Shopify platform analysis](https://github.com/kaysegovia/BI-portfolio/tree/main/Shopify%20platform%20analysis) | Create interactive dashboard on PowerBI that provides better insights data modeling PowerBI. Usage of Dax formula language and visualization techniques . |
-| 7 | [Zomato's restaurant analysis](https://github.com/kaysegovia/BI-portfolio/tree/main/Zomato's%20restaurant%20analysis) | Process unclean data how to calculate and understand metrics to improve business succsess.Created interactive charts, used DAx formulas to publish restaurant analysis. |
+| 7 | [Zomato's restaurant analysis](https://github.com/kaysegovia/BI-portfolio/tree/main/Zomato's%20restaurant%20analysis) | Process unclean data how to calculate and understand metrics to improve business succsess.Created interactive charts, used DAX formulas to publish restaurant analysis. |
 <!--
 | 8 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
 | 9 | [PROJECT NAME](PROJECT DIRECTORY LINK) | DESCRIPTION HERE. |
