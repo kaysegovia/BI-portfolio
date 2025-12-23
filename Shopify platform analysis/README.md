@@ -2,5 +2,6 @@ Make a KPI Card that counts the unique number of apps. Make a Line Chart getting
 Create a new Column in the Reviews table named helpful_reviews using a DAX expression, which multiplies the rating by 1+helpful_count to weigh the reviews by how helpful they’ve been found. The formula in mathematical form would be rating * (1+helpful_count). Make a Card with the average value of the new helpful_reviews column.
 Create a new Column in the Reviews table named developer_answered using a DAX expression, which is 1 (or TRUE) if the developer_reply column is not blank and 0 (or FALSE) if the column row is blank. Make a scatterplot comparing the average rating on the Y-Axis by the value of the developer_answered column on the X-Axis.
 
+<img width="606" height="454" alt="Screenshot 2025-12-23 12 17 12 PM" src="https://github.com/user-attachments/assets/ddc3254b-2c55-4ead-a6b1-c412a18781d1" />
 
 https://docs.google.com/document/d/1129vl2pmH9et67egO57oOaINuEu-Cpu4fdEUtnLEcs4/edit?usp=sharing
