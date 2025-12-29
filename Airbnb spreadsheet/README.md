@@ -1,1 +1,1 @@
-
+Analyze Airbnb data for insights. Make your recommendations by answering questions using piviot tables :Which neighborhoods and property sizes (i.e. number of bedrooms) are most attractive for vacation rentals? How much money did these listings generate?
