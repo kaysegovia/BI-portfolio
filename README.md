@@ -3,8 +3,8 @@ Portfolio of completed projects I worked on while attending the BI ANALYTICS Tri
 
 | Project number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 0 | [Project status report](https://docs.google.com/document/d/1Ozeb8AQ0i_aIBDkQWEkhZiIBeyWoQcKXg3HiawRXuPQ/edit?usp=sharing) |Report involved solving business intelligence problems with analysis with change need solution stakeholder value context . |
-| 1 | [Airbnb spreadsheet](https) | Drawing conclusions and making reccomendations based on data analysis remove inconsistencies in data pivot tables to answer questions clear chart n spreadsheet formatting. |
+| 0 | [Project status report](https://github.com/kaysegovia/BI-portfolio/tree/main/Project%20status%20report) |Report involved solving business intelligence problems with analysis with change need solution stakeholder value context . |
+| 1 | [Airbnb spreadsheet](https://github.com/kaysegovia/BI-portfolio/tree/main/SQL) | Drawing conclusions and making reccomendations based on data analysis remove inconsistencies in data pivot tables to answer questions clear chart n spreadsheet formatting. |
 | 2 | [SQL](https://github.com/kaysegovia/BI-portfolio/tree/main/SQL) | Data collection and storage data analysis remove and identify all common dirty data issues using built in google sheets with functionality. Wrote complex formulas and data validation rules.|
 | 3 | [E-commerce spreadsheet](https://github.com/kaysegovia/BI-portfolio/tree/main/E-commerce%20spreadsheet) | Calculating behavior all and financial metrics plotting funnels and carrying out cohort analysis. |
 | 4 | [Superstore data visualization](https://github.com/kaysegovia/BI-portfolio/tree/main/Superstore%20data%20visualization) | Work with tableau to transfer visualization tools generating different charts while creating interactive visualizations . |
