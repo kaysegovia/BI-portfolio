@@ -1,1 +1,1 @@
-
+Task combines case expressions with grouping and aggregation. Complec analysis that requires subqueries and joins. Acquired a comprehensive database tracking venture funds, startups, acquisitions, and key people in the industry. Series of analysis tasks that shape upcoming quarterly investment report
