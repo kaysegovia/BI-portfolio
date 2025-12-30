@@ -1,1 +1,3 @@
-
+Create a conversion funnel to better understand how users interact with the website.Build acquisition cohorts based on the month of a user’s first purchase, and they want you to track cohort metrics month by month.Calculate the first purchase date for each user who made a purchase.Last steps of the analysis are to aggregate the purchase data into cohorts and then calculate retention rates for each cohort month by month.
+<img width="622" height="280" alt="Screenshot 2025-12-29 11 45 17 PM" src="https://github.com/user-attachments/assets/f2fedcca-2ab0-46f2-8d27-eade96255460" />
+https://docs.google.com/spreadsheets/d/13XnFlE8VaBNjhJ-AgvVFuTuaRBi4U-PN312_4VPv22A/edit?usp=sharing
